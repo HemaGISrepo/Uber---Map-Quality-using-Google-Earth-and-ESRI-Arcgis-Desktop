@@ -1,4 +1,4 @@
-# Uber---Map-Quality-using-Google-Earth-and-ESRI-Arcgis-Desktop
+Map-Quality-using-Google-Earth-and-ESRI-Arcgis-Desktop
 
 Requirements of Uber’s map quality computation system:
 
